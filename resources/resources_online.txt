@@ -3,3 +3,9 @@ https://www.carlrippon.com/repeat-element-n-times-in-jsx/
 
 How to Split an Array into Even Chunks in JavaScript:
 https://stackabuse.com/how-to-split-an-array-into-even-chunks-in-javascript/
+
+300+ React JS Interview Questions
+https://dev.to/sakhnyuk/300-react-interview-questions-2ko4
+
+-- AWESOME Hackaton projects:
+https://blog.idrisolubisi.com/curated-list-awesome-hackathon-projects
