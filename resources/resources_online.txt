@@ -9,3 +9,6 @@ https://dev.to/sakhnyuk/300-react-interview-questions-2ko4
 
 -- AWESOME Hackaton projects:
 https://blog.idrisolubisi.com/curated-list-awesome-hackathon-projects
+
+-- How to activate the execution of scripts
+https://www.alexmedina.net/habilitar-la-ejecucion-de-scripts-para-powershell/#:~:text=Si%20abrimos%20el%20Windows%20PowerShell,%C2%ABSet%2DExecutionPolicy%20Unrestricted%C2%BB.
